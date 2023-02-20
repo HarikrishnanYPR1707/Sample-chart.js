@@ -1,2 +1,2 @@
 # Sample-chart.js
-This repository is just for learning purpose.
+This project is only for learning purpose.
